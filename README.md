@@ -4,6 +4,6 @@
 
 Passionate about technology and new challenges.
 
-Skills: JAVA / .NET / PHP / JS / HTML / CSS
+Skills: JAVA / .NET / JS / HTML / CSS
 
 - 🔭 I’m currently working on this projects.
